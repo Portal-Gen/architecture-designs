@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net" modified="2024-04-25T03:57:00.134Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="UVIMcsCV-5zCJvNm2c1X" version="24.3.0" type="device">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="923" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P3Ne-NETKpsm6mDZbjYq-1" target="P3Ne-NETKpsm6mDZbjYq-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-1" value="User UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P3Ne-NETKpsm6mDZbjYq-3" target="P3Ne-NETKpsm6mDZbjYq-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P3Ne-NETKpsm6mDZbjYq-3" target="P3Ne-NETKpsm6mDZbjYq-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P3Ne-NETKpsm6mDZbjYq-3" target="P3Ne-NETKpsm6mDZbjYq-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P3Ne-NETKpsm6mDZbjYq-3" target="P3Ne-NETKpsm6mDZbjYq-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P3Ne-NETKpsm6mDZbjYq-3" target="P3Ne-NETKpsm6mDZbjYq-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="P3Ne-NETKpsm6mDZbjYq-3" target="P3Ne-NETKpsm6mDZbjYq-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-3" value="API Gateway" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P3Ne-NETKpsm6mDZbjYq-4" target="P3Ne-NETKpsm6mDZbjYq-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-4" value="User Management Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-5" value="Destination Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-6" value="Accomodation Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-7" value="Activity Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="230" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="P3Ne-NETKpsm6mDZbjYq-8" target="P3Ne-NETKpsm6mDZbjYq-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-8" value="Itinerary Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="230" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-9" value="Recommendation Service" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="230" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-23" value="SQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="195" y="550" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-24" value="NoSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="690" y="600" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="P3Ne-NETKpsm6mDZbjYq-5" target="P3Ne-NETKpsm6mDZbjYq-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;" parent="1" source="P3Ne-NETKpsm6mDZbjYq-6" target="P3Ne-NETKpsm6mDZbjYq-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" parent="1" source="P3Ne-NETKpsm6mDZbjYq-7" target="P3Ne-NETKpsm6mDZbjYq-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="P3Ne-NETKpsm6mDZbjYq-8" target="P3Ne-NETKpsm6mDZbjYq-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3Ne-NETKpsm6mDZbjYq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" parent="1" source="P3Ne-NETKpsm6mDZbjYq-9" target="P3Ne-NETKpsm6mDZbjYq-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="578" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
